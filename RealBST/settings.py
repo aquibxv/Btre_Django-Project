@@ -143,6 +143,7 @@ MESSAGE_TAGS = {
     messages.ERROR : 'danger'
 }
 
+"""
 # Email Config
 
 EMAIL_USE_TLS=True
@@ -151,6 +152,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'aquibxv@gmail.com'
 EMAIL_HOST_PASSWORD = 'newlifewnewflame'
+"""
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
