@@ -50,7 +50,7 @@ def search(request):
     if 'bedrooms' in request.GET:
         bedrooms = request.GET['bedrooms']
         if bedrooms:
-            query_set_list = query_set_list.filter(city__iexcat=city)
+            query_set_list = query_set_list.filter(bedrooms__lte=bedrooms)
 
     # Price
     if 'price' in request.GET: 
