@@ -1,6 +1,3 @@
-# Btre_Django-Project - https://btestatereal.herokuapp.com/
-A Web app that allows searching and inquiring of real estates based on keyword, price, country, state 
-
 # BTRealEstate - https://btestatereal.herokuapp.com/
 A Web app that allows searching and inquiring of real estates based on keyword, price, country, state and send an inquiry mail <br/>
 to the assosiated realtor
