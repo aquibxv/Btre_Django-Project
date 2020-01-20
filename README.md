@@ -1,5 +1,5 @@
 # BTRealEstate - https://btestatereal.herokuapp.com/
-A Web app that allows searching and inquiring of real estates based on keyword, price, country, state and send an inquiry mail <br/>
+A Web app that allows searching and inquiring of real estates based on keyword, price, country, state and send an inquiry mail
 to the assosiated realtor
 
 <h3> features </h3>
